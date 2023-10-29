@@ -11,15 +11,25 @@ This repository contains the code for a project where I learned how to use Tailw
 
 ### Beginner UI
 
-In the initial phase, I focused on creating a beginner-friendly UI using Tailwind CSS. This included simple layouts, basic components, and styling elements as per the Tailwind CSS documentation. I explored the core features and utilities of Tailwind CSS to build a foundational understanding of the framework.
+- Two distinct cards representing different pricing plans: Start-Up and Enterprise.
+- Each card includes essential information about the pricing plan, such as features, pricing details, and a call-to-action button for requesting a demo.
+- Styling elements, including gradients, rounded corners, and font-awesome icons, to enhance the visual appeal of the UI.
 
 ### Intermediate UI
 
-Moving forward, I advanced to developing an intermediate-level UI, where I implemented more complex layouts and components. I delved deeper into the customization options provided by Tailwind CSS and experimented with various design patterns and responsive designs.
+- A responsive login page design with a background image and a login form.
+- Form elements for email and password input, along with a 'Forgot your password?' link.
+- Social media icons for quick login via Facebook, Google, and Instagram.
+- A 'Sign Up' link for users who do not have an account.
 
 ### Advanced UI
 
-Finally, I worked on an advanced UI, implementing sophisticated design elements, animations, and advanced styling techniques using Tailwind CSS. This phase allowed me to leverage the full potential of Tailwind CSS and create intricate and visually appealing user interfaces.
+- A dynamic and responsive navigation bar with a logo, menu items, and login/signup options.
+- A visually appealing header section with engaging text and an illustrative image.
+- Brand logos representing companies that trust the service.
+- A detailed section describing the benefits and features of the service.
+- A free trial section with a call-to-action button and additional information.
+- A well-structured footer with company information, navigation links, and social media icons.
 
 ## Getting Started
 
@@ -27,8 +37,6 @@ To run the project, follow these steps:
 
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Run `npm install` to install the necessary dependencies.
-4. Start the development server using `npm start` or the preferred script provided in the `package.json` file.
 
 Feel free to explore the code and the different UI iterations that I have implemented using Tailwind CSS. If you have any questions or feedback, please don't hesitate to reach out.
 
